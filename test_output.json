@@ -1,0 +1,14 @@
+[
+    {
+        "timestamp": "2025-01-01T00:00:00Z",
+        "src_ip": "1.2.3.4",
+        "dest_ip": "5.6.7.8",
+        "alert_signature": "Test Sig"
+    },
+    {
+        "timestamp": "2025-01-01T01:00:00Z",
+        "src_ip": "10.0.0.1",
+        "dest_ip": "8.8.8.8",
+        "alert_signature": "DNS Leak"
+    }
+]
