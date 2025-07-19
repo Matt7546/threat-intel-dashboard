@@ -1,0 +1,6 @@
+07/18/2025-09:41:56.409068  [**] [1:2200077:2] SURICATA TCPv6 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 0000:0000:0000:0000:0000:0000:0000:0001:59989 -> 0000:0000:0000:0000:0000:0000:0000:0001:80
+07/18/2025-09:41:56.409594  [**] [1:2200077:2] SURICATA TCPv6 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 0000:0000:0000:0000:0000:0000:0000:0001:80 -> 0000:0000:0000:0000:0000:0000:0000:0001:59989
+07/18/2025-09:41:56.409716  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 127.0.0.1:59990 -> 127.0.0.1:80
+07/18/2025-09:41:56.409716  [**] [1:2200074:2] SURICATA TCPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 127.0.0.1:59990 -> 127.0.0.1:80
+07/18/2025-09:41:56.409778  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 127.0.0.1:80 -> 127.0.0.1:59990
+07/18/2025-09:41:56.409778  [**] [1:2200074:2] SURICATA TCPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 127.0.0.1:80 -> 127.0.0.1:59990
